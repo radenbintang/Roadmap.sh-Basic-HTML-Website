@@ -23,5 +23,4 @@ This project demonstrates my understanding of:
 
 ✅ Project submitted as part of [Roadmap.sh HTML Project](https://roadmap.sh/frontend/html-project)
 
-📦 Project URL: https://github.com/radenbintang/Roadmap.sh-Basic-HTML-Website  
-🌐 Live Demo: https://radenbintang.github.io/Roadmap.sh-Basic-HTML-Website/
+📦 Project URL: https://roadmap.sh/projects/Roadmap.sh-Basic-HTML-Website
