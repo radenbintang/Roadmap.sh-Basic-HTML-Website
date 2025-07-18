@@ -18,7 +18,7 @@ It's part of the **Frontend path on Roadmap.sh** and is intended to practice wri
 - GitHub
 
 ## Live Demo
-(https://radenbintang.github.io/Roadmap.sh-Basic-HTML-Website/projects.html)]
+(https://radenbintang.github.io/Roadmap.sh-Basic-HTML-Website/projects.html)
 
 ## License
 © 2025. All rights reserved.
