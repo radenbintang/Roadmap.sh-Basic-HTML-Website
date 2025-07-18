@@ -2,8 +2,6 @@
 
 This is a basic HTML website project built as part of the [Roadmap.sh](https://roadmap.sh/frontend) frontend learning path.
 
-🔗 [Live Site](https://radenbintang.github.io/Roadmap.sh-Basic-HTML-Website/)
-
 ## 📄 Pages Included
 - `index.html` — Home (experience, education, testimonials)
 - `projects.html` — Projects page
@@ -24,5 +22,7 @@ This project demonstrates my understanding of:
 ---
 
 ✅ Project submitted as part of [Roadmap.sh HTML Project](https://roadmap.sh/frontend/html-project)  
+📦 [Project Repository](https://github.com/radenbintang/Roadmap.sh-Basic-HTML-Website)
+
 
 
