@@ -1,24 +1,27 @@
-# Basic HTML Portfolio
+# Roadmap.sh - Basic HTML Website
 
-Basic HTML site for Roadmap.sh
+This is a basic HTML website project built as part of the [Roadmap.sh](https://roadmap.sh/frontend) frontend learning path.
 
-## Pages
-- **Home** – overview, experience, education, testimonials.
-- **Projects** – list of sample mini-projects.
-- **Articles** – short notes on Semantic HTML & good navigation.
-- **Contact** – basic form (name, email, message).
+## 🔗 Live Demo  
+👉 [Click here to view the live site](https://radenbintang.github.io/Roadmap.sh-Basic-HTML-Website/)
 
-## General Info
-This project demonstrates basic HTML knowledge and proper semantic structure.  
-It's part of the **Frontend path on Roadmap.sh** and is intended to practice writing clean, organized HTML code.
+## 📄 Pages Included
+- `index.html` — Home (experience, education, testimonials)
+- `projects.html` — Projects page
+- `articles.html` — Notes on Semantic HTML and nav structure
+- `contact.html` — Basic contact form (name, email, message)
 
-## Technologies Used
+## 🛠 Technologies Used
 - HTML5
-- VS Code 1.102.1
+- VS Code
 - GitHub
 
-## Live Demo
-(https://radenbintang.github.io/Roadmap.sh-Basic-HTML-Website/projects.html)
+## 📌 Purpose
+This project demonstrates my understanding of:
+- Semantic HTML structure
+- Linking multiple pages
+- Creating basic portfolio layout
 
-## License
-© 2025. All rights reserved.
+---
+
+✅ Project submitted as part of [Roadmap.sh HTML Project](https://roadmap.sh/frontend/html-project)  
