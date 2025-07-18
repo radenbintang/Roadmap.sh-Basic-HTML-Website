@@ -1,6 +1,6 @@
 # Basic HTML Portfolio
 
-A super-simple personal portfolio built with plain HTML.
+Basic HTML site for Roadmap.sh
 
 ## Pages
 - **Home** – overview, experience, education, testimonials.
@@ -8,8 +8,17 @@ A super-simple personal portfolio built with plain HTML.
 - **Articles** – short notes on Semantic HTML & good navigation.
 - **Contact** – basic form (name, email, message).
 
-## Getting Started
-Clone or download, then open `index.html` in your browser (or serve the folder with any static server).
+## General Info
+This project demonstrates basic HTML knowledge and proper semantic structure.  
+It's part of the **Frontend path on Roadmap.sh** and is intended to practice writing clean, organized HTML code.
+
+## Technologies Used
+- HTML5
+- VS Code 1.102.1
+- GitHub
+
+## Live Demo
+[Insert live URL here]
 
 ## License
 © 2025. All rights reserved.
